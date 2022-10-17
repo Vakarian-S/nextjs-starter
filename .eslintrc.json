@@ -3,7 +3,7 @@
   "rules": {
     "indent": ["error",3],
     "semi": "error",
-    "comma-dangle": "error",
+    "comma-dangle": ["error"],
     "strict": "error",
     "object-curly-spacing": ["error", "always"],
     "no-unused-vars": "error"
